@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Python Developer | Aspiring Data Analyst | AI & Full-Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=700&lines=Turning+data+into+meaningful+insights+%F0%9F%93%8A;Building+projects%2C+solving+problems+%26+learning+every+day+%F0%9F%9A%80;Python+%7C+SQL+%7C+AI+%7C+Data+Analytics+%7C+Web+Development;Future+Data+Analyst+with+a+Developer+Mindset+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=900&lines=Turning+data+into+meaningful+insights+%F0%9F%93%8A;Building+projects%2C+solving+problems+%26+learning+every+day+%F0%9F%9A%80;Python+%7C+SQL+%7C+AI+%7C+Data+Analytics+%7C+Web+Development;Future+Data+Analyst+with+a+Developer+Mindset+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -218,12 +218,6 @@ Repeat 🔁
 📫 **Email:** akshitha.v.gopu@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/akshitha-varma-55aab5340/
-
-# 🐍 Watch My Contributions Move!
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkshithaVarma/AkshithaVarma/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
